@@ -1,0 +1,85 @@
+{
+  "mainNode": {
+    "tasks_numb": 8,
+    "tasks": [
+      {
+        "title": "Continue",
+        "items": [
+          {
+            "id": 0,
+            "title": "Monitoring your blood pressure at home",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "50",
+            "image": "https://st4.depositphotos.com/4177785/25613/v/1600/depositphotos_256138262-stock-illustration-fingertip-pulse-oximeter-color-icon.jpg",
+            "videoURL": "lKtfwiwHjLI"
+          }
+        ]
+      }, {
+        "title": "Learn more about hypertension",
+        "items": [
+          {
+            "id": 2,
+            "title": "How Blood pressure works?",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "0",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-EcBHX9ihpuHJOqrvIksIM_jDrLsTNEoGw&usqp=CAU",
+            "pdfURL":"assessment.pdf"
+          }, {
+            "id": 3,
+            "title": "How Blood pressure works?",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "80",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-EcBHX9ihpuHJOqrvIksIM_jDrLsTNEoGw&usqp=CAU",
+            "videoURL": "lKtfwiwHjLI"
+          }
+        ]
+      }, {
+        "title": "Keep an eye on your Blood Pressure",
+        "items": [
+          {
+            "id": 4,
+            "title": "Understanding Blood pressure Readings",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "30",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9hym-Q2JEreUa75XSDh1pJSHYvLS3Rukig&usqp=CAU",
+            "videoURL": "lKtfwiwHjLI"
+          }, {
+            "id": 5,
+            "title": "Understanding Blood pressure Readings",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "60",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM9hym-Q2JEreUa75XSDh1pJSHYvLS3Rukig&usqp=CAU",
+            "pdfURL":"assessment.pdf"
+          }
+        ]
+      }, {
+        "title": "Make Heart-Healthy Food choices",
+        "items": [
+          {
+            "id": 6,
+            "title": "Manage Blood pressure with a heart-healthy diet",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "20",
+            "image": "https://www.gannett-cdn.com/presto/2021/02/03/NDAC/6ae1d864-c21f-409f-8117-f22138b4f7ac-Heart_Health.jpg?width=660&height=510&fit=crop&format=pjpg&auto=webp",
+            "pdfURL":"assessment.pdf"
+          }, {
+            "id": 7,
+            "title": "Manage Blood pressure with a heart-healthy diet",
+            "info": "Blood pressure measurement",
+            "time": "1m",
+            "progress": "70",
+            "image": "https://www.gannett-cdn.com/presto/2021/02/03/NDAC/6ae1d864-c21f-409f-8117-f22138b4f7ac-Heart_Health.jpg?width=660&height=510&fit=crop&format=pjpg&auto=webp",
+            "videoURL": "lKtfwiwHjLI"
+          }
+        ]
+      }
+    ]
+  }
+
+}

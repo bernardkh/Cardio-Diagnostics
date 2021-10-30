@@ -1,0 +1,100 @@
+com/example/cardio_diagnostics/ui/activities/SplashScreenActivity.java
+ com.example.cardio_diagnostics.ui.activities.SplashScreenActivity
+com/example/cardio_diagnostics/DataBindingTriggerClass.java
+ com.example.cardio_diagnostics.DataBindingTriggerClass
+com/example/cardio_diagnostics/databinding/ItemTaskHolderBinding.java
+ com.example.cardio_diagnostics.databinding.ItemTaskHolderBinding
+com/example/cardio_diagnostics/cfg/Constants.java
+ com.example.cardio_diagnostics.cfg.Constants
+com/example/cardio_diagnostics/utils/recyclerview/DividerDecoration.java
+ com.example.cardio_diagnostics.utils.recyclerview.DividerDecoration
+com/example/cardio_diagnostics/beans/UserClass.java
+ com.example.cardio_diagnostics.beans.UserClass
+ com.example.cardio_diagnostics.beans.UserClass$1
+com/example/cardio_diagnostics/ui/activities/MainActivity.java
+ com.example.cardio_diagnostics.ui.activities.MainActivity
+com/example/cardio_diagnostics/components/alert_dialog/Rotate3dAnimation.java
+ com.example.cardio_diagnostics.components.alert_dialog.Rotate3dAnimation
+ com.example.cardio_diagnostics.components.alert_dialog.Rotate3dAnimation$Description
+com/example/cardio_diagnostics/vholders/HorizontalPlaceHolderView.java
+ com.example.cardio_diagnostics.vholders.HorizontalPlaceHolderView
+com/example/cardio_diagnostics/utils/Methods.java
+ com.example.cardio_diagnostics.utils.Methods
+com/example/cardio_diagnostics/managers/SharedPreferencesManager.java
+ com.example.cardio_diagnostics.managers.SharedPreferencesManager
+com/example/cardio_diagnostics/databinding/FragmentHomeBinding.java
+ com.example.cardio_diagnostics.databinding.FragmentHomeBinding
+com/example/cardio_diagnostics/components/alert_dialog/SuccessTickView.java
+ com.example.cardio_diagnostics.components.alert_dialog.SuccessTickView
+ com.example.cardio_diagnostics.components.alert_dialog.SuccessTickView$1
+com/example/cardio_diagnostics/utils/Dialogs.java
+ com.example.cardio_diagnostics.utils.Dialogs
+ com.example.cardio_diagnostics.utils.Dialogs$1
+ com.example.cardio_diagnostics.utils.Dialogs$2
+ com.example.cardio_diagnostics.utils.Dialogs$3
+com/example/cardio_diagnostics/utils/recyclerview/DividerItemDecoratorNoLast.java
+ com.example.cardio_diagnostics.utils.recyclerview.DividerItemDecoratorNoLast
+com/example/cardio_diagnostics/BuildConfig.java
+ com.example.cardio_diagnostics.BuildConfig
+com/example/cardio_diagnostics/beans/TaskClass.java
+ com.example.cardio_diagnostics.beans.TaskClass
+ com.example.cardio_diagnostics.beans.TaskClass$1
+com/example/cardio_diagnostics/ui/activities/VideoPDFActivity.java
+ com.example.cardio_diagnostics.ui.activities.VideoPDFActivity
+ com.example.cardio_diagnostics.ui.activities.VideoPDFActivity$1
+com/example/cardio_diagnostics/ui/fragments/HomeFragment.java
+ com.example.cardio_diagnostics.ui.fragments.HomeFragment
+ com.example.cardio_diagnostics.ui.fragments.HomeFragment$1
+com/example/cardio_diagnostics/utils/LogUtils.java
+ com.example.cardio_diagnostics.utils.LogUtils
+com/example/cardio_diagnostics/beans/BitmapTransform.java
+ com.example.cardio_diagnostics.beans.BitmapTransform
+com/example/cardio_diagnostics/components/alert_dialog/CustomAlertDialog.java
+ com.example.cardio_diagnostics.components.alert_dialog.CustomAlertDialog
+com/example/cardio_diagnostics/components/CustomButton.java
+ com.example.cardio_diagnostics.components.CustomButton
+com/example/cardio_diagnostics/managers/FavoritesManager.java
+ com.example.cardio_diagnostics.managers.FavoritesManager
+com/example/cardio_diagnostics/components/alert_dialog/ProgressHelper.java
+ com.example.cardio_diagnostics.components.alert_dialog.ProgressHelper
+com/example/cardio_diagnostics/vholders/ItemTaskView.java
+ com.example.cardio_diagnostics.vholders.ItemTaskView
+ com.example.cardio_diagnostics.vholders.ItemTaskView$1
+com/example/cardio_diagnostics/listeners/OnClickAlertListener.java
+ com.example.cardio_diagnostics.listeners.OnClickAlertListener
+com/example/cardio_diagnostics/interfaces/GeneralCall.java
+ com.example.cardio_diagnostics.interfaces.GeneralCall
+com/example/cardio_diagnostics/beans/TaskItem.java
+ com.example.cardio_diagnostics.beans.TaskItem
+ com.example.cardio_diagnostics.beans.TaskItem$1
+com/example/cardio_diagnostics/interfaces/ParentCallback.java
+ com.example.cardio_diagnostics.interfaces.ParentCallback
+com/example/cardio_diagnostics/databinding/ActivityMainBinding.java
+ com.example.cardio_diagnostics.databinding.ActivityMainBinding
+com/example/cardio_diagnostics/databinding/ActivityVideoPlayerBinding.java
+ com.example.cardio_diagnostics.databinding.ActivityVideoPlayerBinding
+com/example/cardio_diagnostics/components/alert_dialog/OptAnimationLoader.java
+ com.example.cardio_diagnostics.components.alert_dialog.OptAnimationLoader
+com/example/cardio_diagnostics/utils/placeHolderView/PHV.java
+ com.example.cardio_diagnostics.utils.placeHolderView.PHV
+com/example/cardio_diagnostics/components/CustomEditText.java
+ com.example.cardio_diagnostics.components.CustomEditText
+ com.example.cardio_diagnostics.components.CustomEditText$1
+com/example/cardio_diagnostics/databinding/ProgressDialogBinding.java
+ com.example.cardio_diagnostics.databinding.ProgressDialogBinding
+com/example/cardio_diagnostics/utils/IntentHelper.java
+ com.example.cardio_diagnostics.utils.IntentHelper
+com/example/cardio_diagnostics/databinding/ItemHorizontalPlaceholderViewBinding.java
+ com.example.cardio_diagnostics.databinding.ItemHorizontalPlaceholderViewBinding
+com/example/cardio_diagnostics/components/alert_dialog/ProgressWheel.java
+ com.example.cardio_diagnostics.components.alert_dialog.ProgressWheel
+ com.example.cardio_diagnostics.components.alert_dialog.ProgressWheel$1
+ com.example.cardio_diagnostics.components.alert_dialog.ProgressWheel$ProgressCallback
+ com.example.cardio_diagnostics.components.alert_dialog.ProgressWheel$WheelSavedState
+ com.example.cardio_diagnostics.components.alert_dialog.ProgressWheel$WheelSavedState$1
+com/example/cardio_diagnostics/App.java
+ com.example.cardio_diagnostics.App
+com/example/cardio_diagnostics/databinding/CustomEditTextBinding.java
+ com.example.cardio_diagnostics.databinding.CustomEditTextBinding
+com/example/cardio_diagnostics/listeners/OnItemClickListener.java
+ com.example.cardio_diagnostics.listeners.OnItemClickListener
