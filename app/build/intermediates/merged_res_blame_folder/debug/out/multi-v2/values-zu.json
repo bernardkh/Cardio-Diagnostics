@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "outputFile": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\Cardio-Diagnostics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\.gradle\\caches\\transforms-2\\files-2.1\\ddecf6afe8aa1a735090d0e06c828571\\jetified-ui-1.0.1\\res\\values-zu\\values-zu.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\Cardio-Diagnostics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\.gradle\\caches\\transforms-2\\files-2.1\\14db2cb84c2ff751ea80293ac9193f54\\jetified-navigation-dynamic-features-fragment-2.3.5\\res\\values-en-rIN\\values-en-rIN.xml",

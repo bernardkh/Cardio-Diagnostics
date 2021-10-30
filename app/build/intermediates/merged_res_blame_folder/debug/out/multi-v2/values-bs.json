@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\Cardio-Diagnostics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator.DESKTOP-O9J4OID\\.gradle\\caches\\transforms-2\\files-2.1\\df09fe067af4df96f0ce499f634535d8\\navigation-ui-2.3.5\\res\\values-bs\\values-bs.xml",

@@ -1,0 +1,7 @@
+#Sat Oct 30 22:57:49 EEST 2021
+base.1=C\:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\Cardio-Diagnostics\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\Administrator.DESKTOP-O9J4OID\\AndroidStudioProjects\\Cardio_diagnostics\\Cardio-Diagnostics\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
